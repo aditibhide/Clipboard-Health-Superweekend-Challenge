@@ -3,9 +3,11 @@ This repository contains code and analysis for data visualization and machine le
 
 ## Repository Overview
 This repository consists of the following:
-1. **Notebook**: `Clipboard_Health_(Data_Visualization_+_ML).ipynb` – The Jupyter Notebook where data analysis, visualization, and machine learning modeling are implemented.
-2. **Images**: All graphs and images generated from the notebook are stored in the `images` directory.
-3. **README**: Documentation to help understand the context, code, and findings.
+1. **Notebook**: The Jupyter Notebook can be found in 'notebook' directory . It is implementing data analysis, visualization, and machine learning modeling.
+2. **Images**: All graphs and images generated from the code are stored in the `images` directory.
+3. **Python Source Code**: I have also stored 2 Python Code files in the 'src' directory
+4. **Results**: All the analysis, insights, recommendations & ML Model Analysis is stored in 'results' directory
+5. **README**: Documentation to help understand the context, code, and findings.
 
 ## Problem Objectives
 This analysis focuses on understanding factors that influence shift outcomes, worker behavior, and workplace efficiency. The main objectives are:
